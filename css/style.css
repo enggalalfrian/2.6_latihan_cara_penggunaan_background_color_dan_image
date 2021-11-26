@@ -10,3 +10,20 @@ span {
 p {
     background-color: yellow;
 }
+
+/* opacity di background color */
+div {
+    background-color: green;
+}
+
+div.first {
+    opacity: 0.1;
+}
+
+div.second {
+    opacity: 0.3;
+}
+
+div.third {
+    opacity: 0.6;
+}
