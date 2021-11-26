@@ -45,3 +45,9 @@ div.tiga {
 body {
     background-image: url("../img/background.jpg");
 }
+
+/* background image di elemen tertentu */
+#text-background {
+    background-image: url("../img/text-background.png");
+    color: white;
+}
